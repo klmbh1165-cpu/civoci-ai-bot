@@ -1,1 +1,0 @@
-# civoci-ai-bot
